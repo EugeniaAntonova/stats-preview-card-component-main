@@ -126,6 +126,7 @@ mark {
     font-size: 28px;
     font-weight: 800;
     line-height: 1.16;
+    color: var(--text-accent);
 }
 
 .features {
